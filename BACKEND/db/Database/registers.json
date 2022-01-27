@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "61dfab02c12d475570e1c7de"
+  },
+  "fname": "Aparna",
+  "lname": "Paniker",
+  "mobile": 9876543218,
+  "email": "aparna@gmail.com",
+  "password": "appuraghu",
+  "gender": "Female",
+  "Address": [
+    {
+      "Address_id": 0.6297687909894314,
+      "address": "Santhosh nagar ,Katraj",
+      "pincode": 411047,
+      "city": "Pune",
+      "country": "India",
+      "_id": {
+        "$oid": "61dfab59c12d475570e1c7f0"
+      }
+    },
+    {
+      "Address_id": 0.3976850726163572,
+      "address": "Skyline plaza , Gandhi nagar",
+      "pincode": 456789,
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "_id": {
+        "$oid": "61dff6eb18aad1602452656a"
+      }
+    }
+  ],
+  "date": {
+    "$date": "2022-01-13T04:30:58.878Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dfdc890b25711f24e10db2"
+  },
+  "fname": "John",
+  "lname": "Doeh",
+  "mobile": 9876434677,
+  "email": "john@gmail.com",
+  "password": "john1234",
+  "gender": "Male",
+  "Address": [
+    {
+      "Address_id": 0.4135325279484401,
+      "address": "Lane no:2,Namdev nagar, Wadgaonsheri",
+      "pincode": 411004,
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "_id": {
+        "$oid": "61e453b7a6fd20d7e7f018cd"
+      }
+    }
+  ],
+  "date": {
+    "$date": "2022-01-13T08:02:17.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e5549f04836af754548cd1"
+  },
+  "fname": "Ashwathy",
+  "lname": "Paniker",
+  "mobile": 1475704692810908,
+  "email": "ashwathyraghunath@gmail.com",
+  "password": "socialLogin",
+  "gender": "Female",
+  "Address": [],
+  "date": {
+    "$date": "2022-01-17T11:35:59.140Z"
+  },
+  "__v": 0
+}]

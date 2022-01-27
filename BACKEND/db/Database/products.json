@@ -1,0 +1,316 @@
+[{
+  "_id": {
+    "$oid": "61cc5cbd3286b9503dfa2044"
+  },
+  "product_name": "OnePlus 9 5G ",
+  "product_image": "https://m.media-amazon.com/images/I/61fy+u9uqPL._SL1500_.jpg",
+  "product_desc": "Qualcomm Snapdragon 888 Processor with Adreno 660 GPU 6.55 Inches Fluid AMOLED Display with 120Hz refresh rate OnePlus Oxygen OS based on Andriod 11",
+  "product_rating": 2.1,
+  "product_cost": 50000,
+  "product_stock": 10,
+  "color_id": {
+    "$oid": "61cc46a23286b9503dfa2040"
+  },
+  "category_id": {
+    "$oid": "61cc46653286b9503dfa203e"
+  },
+  "product_subimages": [
+    "https://m.media-amazon.com/images/I/61AbfFR+lcL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61I1Rvf5eTL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61aOYUK3CbL._SL1500_.jpg"
+  ]
+},{
+  "_id": {
+    "$oid": "61cc5cbd3286b9503dfa2045"
+  },
+  "product_name": "OnePlus Nord 2 5G",
+  "product_image": "https://m.media-amazon.com/images/I/71D8xt91+VL._SL1500_.jpg",
+  "product_desc": "Qualcomm Snapdragon 888 Processor with Adreno 660 GPU 6.55 Inches Fluid AMOLED Display with 120Hz refresh rate OnePlus Oxygen OS based on Andriod 11",
+  "product_rating": 2.1,
+  "product_cost": 35000,
+  "product_stock": 10,
+  "color_id": {
+    "$oid": "61cc46a23286b9503dfa2041"
+  },
+  "category_id": {
+    "$oid": "61cc46653286b9503dfa203e"
+  },
+  "product_subimages": [
+    "https://m.media-amazon.com/images/I/71fZn97i7WL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71zRPxol6UL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51tZuVxCMaL._SL1500_.jpg"
+  ]
+},{
+  "_id": {
+    "$oid": "61cc5cbd3286b9503dfa2046"
+  },
+  "product_name": "OnePlus 7",
+  "product_image": "https://m.media-amazon.com/images/I/61nvRDNFhUL._SL1000_.jpg",
+  "product_desc": "Rear Camera - 48MP (Primary) + 5 MP (Tele-photo) | Front Camera - 16MP;16.2814 centimeters (6.41-inch) multi-touch capacitive touchscreen with 2340 x 1080 pixels resolution;",
+  "product_rating": 4,
+  "product_cost": 34000,
+  "product_stock": 10,
+  "color_id": {
+    "$oid": "61cc46a23286b9503dfa2042"
+  },
+  "category_id": {
+    "$oid": "61cc46653286b9503dfa203e"
+  },
+  "product_subimages": [
+    "https://m.media-amazon.com/images/I/51Cz+3HhbFL._SL1000_.jpg",
+    "https://m.media-amazon.com/images/I/5151c0gRn4L._SL1000_.jpg",
+    "https://m.media-amazon.com/images/I/51s1H19SiiL._SL1000_.jpg"
+  ]
+},{
+  "_id": {
+    "$oid": "61cc757b3286b9503dfa2047"
+  },
+  "product_name": "Fortune Sunlite Refined Sunflower Oil, 5L Can",
+  "product_image": "https://m.media-amazon.com/images/I/412TbDp8+mL.jpg",
+  "product_desc": "Fortified,Light and healthy that is easy to digest,Rich in vitamins, which keeps skin healthy",
+  "product_rating": 3,
+  "product_cost": 785,
+  "product_stock": 10,
+  "color_id": {
+    "$oid": "61cc46a23286b9503dfa2043"
+  },
+  "category_id": {
+    "$oid": "61cc46653286b9503dfa203d"
+  },
+  "product_subimages": [
+    "https://m.media-amazon.com/images/I/51B9YFCkZrS.jpg",
+    "https://m.media-amazon.com/images/I/810bFfXtiZS._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81sxhDjBPyS._SL1500_.jpg"
+  ]
+},{
+  "_id": {
+    "$oid": "61cc75b93286b9503dfa2048"
+  },
+  "product_name": "Sunfeast Dark Fantasy Choco Fills 600g",
+  "product_image": "https://m.media-amazon.com/images/I/81vaCvN-J+L._SL1500_.jpg",
+  "product_desc": "A one of a kind chocolate indulgence, Sunfeast Dark Fantasy Choco Fills is the perfect partner for cravings that you Can’tWaitWon’tWait to give in",
+  "product_rating": 4,
+  "product_cost": 196,
+  "product_stock": 7,
+  "color_id": {
+    "$oid": "61cc46a23286b9503dfa203f"
+  },
+  "category_id": {
+    "$oid": "61cc46653286b9503dfa203d"
+  },
+  "product_subimages": [
+    "https://m.media-amazon.com/images/I/81V69QshmjL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/818r-EoeEiL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81L0yy4aDrL._SL1500_.jpg"
+  ]
+},{
+  "_id": {
+    "$oid": "61cc75ca3286b9503dfa2049"
+  },
+  "product_name": "Tata Salt Lite 15% Low Sodium Iodised Salt 1kg",
+  "product_image": "https://m.media-amazon.com/images/I/61Zgf3krb7L._SL1000_.jpg",
+  "product_desc": "Active Health Management with Tata Salt Lite 15% Low Sodium: Tata Salt has 15% lesser sodium compared to regular iodized salt",
+  "product_rating": 4,
+  "product_cost": 35,
+  "product_stock": 8,
+  "color_id": {
+    "$oid": "61cc46a23286b9503dfa2041"
+  },
+  "category_id": {
+    "$oid": "61cc46653286b9503dfa203d"
+  },
+  "product_subimages": [
+    "https://m.media-amazon.com/images/I/61dX7+fmphL._SL1000_.jpg",
+    "https://m.media-amazon.com/images/I/61IJyG-u1vL._SL1000_.jpg",
+    "https://m.media-amazon.com/images/I/81hyvKo21bL._SL1500_.jpg"
+  ]
+},{
+  "_id": {
+    "$oid": "61cc763d3286b9503dfa204a"
+  },
+  "product_name": "Mother Dairy Pure Healthy Ghee 1L",
+  "product_image": "https://m.media-amazon.com/images/I/91idhnLyJqL._SL1500_.jpg",
+  "product_desc": "North,Fortified Mother dairy cow ghee is believed to be the best for human consumption",
+  "product_rating": 3,
+  "product_cost": 455,
+  "product_stock": 7,
+  "color_id": {
+    "$oid": "61cc46a23286b9503dfa2040"
+  },
+  "category_id": {
+    "$oid": "61cc46653286b9503dfa203d"
+  },
+  "product_subimages": [
+    "https://m.media-amazon.com/images/I/91idhnLyJqL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51ivvySyOzS._SL1280_.jpg",
+    "https://m.media-amazon.com/images/I/41E+eFPqK8S._SL1500_.jpg"
+  ]
+},{
+  "_id": {
+    "$oid": "61cc798c3286b9503dfa204b"
+  },
+  "product_name": "Yashika Women's Art Silk Saree",
+  "product_image": "https://m.media-amazon.com/images/I/91GKFgnS5uL._UL1500_.jpg",
+  "product_desc": "Color Name: BlueFabric: Art Silk,The length of the Saree is 5.5 mtrs and Blouse is 0.80 mtrs",
+  "product_rating": 4,
+  "product_cost": 700,
+  "product_stock": 8,
+  "color_id": {
+    "$oid": "61cc46a23286b9503dfa2040"
+  },
+  "category_id": {
+    "$oid": "61cc46653286b9503dfa203b"
+  },
+  "product_subimages": [
+    "https://m.media-amazon.com/images/I/91AQuZokiOL._UL1500_.jpg",
+    "https://m.media-amazon.com/images/I/91OS6-aTRHL._UL1500_.jpg",
+    "https://m.media-amazon.com/images/I/818piw6b2wL._UL1500_.jpg"
+  ]
+},{
+  "_id": {
+    "$oid": "61cc79a63286b9503dfa204c"
+  },
+  "product_name": "Qube By Fort Collins Women's Cape Jacket",
+  "product_image": "https://m.media-amazon.com/images/I/71Kb9-8ep4S._UL1500_.jpg",
+  "product_desc": "100% Nylon,Easy hand wash,Cape,Long sleeve hooded jacket",
+  "product_rating": 5,
+  "product_cost": 807,
+  "product_stock": 10,
+  "color_id": {
+    "$oid": "61cc46a23286b9503dfa203f"
+  },
+  "category_id": {
+    "$oid": "61cc46653286b9503dfa203b"
+  },
+  "product_subimages": [
+    "https://m.media-amazon.com/images/I/81G9cP3FsuS._UL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81xu7N0-40S._UL1500_.jpg",
+    "https://m.media-amazon.com/images/I/712XfVmH7MS._UL1500_.jpg"
+  ]
+},{
+  "_id": {
+    "$oid": "61cc79b43286b9503dfa204d"
+  },
+  "product_name": "Harpa Women's Regular fit TOP",
+  "product_image": "https://m.media-amazon.com/images/I/8143JwwaOqL._UL1500_.jpg",
+  "product_desc": "Fit Type: regular fitMaterial: Crepe Hand wash",
+  "product_rating": 4,
+  "product_cost": 249,
+  "product_stock": 8,
+  "color_id": {
+    "$oid": "61cc46a23286b9503dfa2043"
+  },
+  "category_id": {
+    "$oid": "61cc46653286b9503dfa203b"
+  },
+  "product_subimages": [
+    "https://m.media-amazon.com/images/I/81J0abPassL._UL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81irW7hrZVL._UL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71HpP1nZ9oL._UL1500_.jpg"
+  ]
+},{
+  "_id": {
+    "$oid": "61cc79cd3286b9503dfa204e"
+  },
+  "product_name": "Arrow Sports Men's Blouson Cotton Sweater",
+  "product_image": "https://m.media-amazon.com/images/I/811-dtY-pBL._UL1500_.jpg",
+  "product_desc": "80% Cotton and 20% Nylon Button front Long sleeve",
+  "product_rating": 4,
+  "product_cost": 979,
+  "product_stock": 8,
+  "color_id": {
+    "$oid": "61cc46a23286b9503dfa2042"
+  },
+  "category_id": {
+    "$oid": "61cc46653286b9503dfa203b"
+  },
+  "product_subimages": [
+    "https://m.media-amazon.com/images/I/71VZxwfa9uL._UL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81mbeueEJoL._UL1500_.jpg",
+    "https://m.media-amazon.com/images/I/715o1xRAmZL._UL1500_.jpg"
+  ]
+},{
+  "_id": {
+    "$oid": "61cc79df3286b9503dfa204f"
+  },
+  "product_name": "Men's Slim Fit Shirt Classic Fil-a-Fil Fabric",
+  "product_image": "https://m.media-amazon.com/images/I/81JO8kwZ7bL._UL1500_.jpg",
+  "product_desc": "Fit Type: Slim Fit Material - 75% Cotton and 25% Polyester Slim fit and Full sleeve shirt",
+  "product_rating": 5,
+  "product_cost": 599,
+  "product_stock": 6,
+  "color_id": {
+    "$oid": "61cc46a23286b9503dfa2040"
+  },
+  "category_id": {
+    "$oid": "61cc46653286b9503dfa203b"
+  },
+  "product_subimages": [
+    "https://m.media-amazon.com/images/I/71eCbpA98HL._UL1500_.jpg",
+    "https://m.media-amazon.com/images/I/91CWZ5N5I7L._UL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61sXjqv0YQL._UL1500_.jpg"
+  ]
+},{
+  "_id": {
+    "$oid": "61cf07f61cc9ece93f1601da"
+  },
+  "product_name": "Canon EOS 750 AF 35 mm Film Camera.",
+  "product_image": "https://m.media-amazon.com/images/I/81jo9vdm5FL._SL1500_.jpg",
+  "product_desc": "Canon EOS 750 AF 35 mm Film Camera.",
+  "product_rating": 4,
+  "product_cost": 18900,
+  "product_stock": 10,
+  "color_id": {
+    "$oid": "61cc46a23286b9503dfa203f"
+  },
+  "category_id": {
+    "$oid": "61cc46653286b9503dfa203c"
+  },
+  "product_subimages": [
+    "https://m.media-amazon.com/images/I/81Oz9NXLZ3L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71NlTKBfs2L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81d295jwa0L._SL1500_.jpg"
+  ]
+},{
+  "_id": {
+    "$oid": "61cf096a1cc9ece93f1601db"
+  },
+  "product_name": "Noise ColorFit Pulse Spo2 Smart Watch",
+  "product_image": "https://m.media-amazon.com/images/I/61epn29QG0L._SL1500_.jpg",
+  "product_desc": "1.4 Full Touch HD Display Smartwatch, 24*7 Heart Rate Monitor Smart Band Automatically monitor your blood oxygen (Spo2 levels), real-time heart rate, and provide comprehensive analysis of your sleep quality (deep sleep,light sleep and wake up time) on this smart watch.",
+  "product_rating": 5,
+  "product_cost": 1900,
+  "product_stock": 10,
+  "color_id": {
+    "$oid": "61cc46a23286b9503dfa203f"
+  },
+  "category_id": {
+    "$oid": "61cc46653286b9503dfa203c"
+  },
+  "product_subimages": [
+    "https://m.media-amazon.com/images/I/61bsENGKWjL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71-GrEwLmxL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61c6sVzeqwL._SL1500_.jpg"
+  ]
+},{
+  "_id": {
+    "$oid": "61cf0c74b29518a065455396"
+  },
+  "product_name": "2020 Apple iPad Air with A14 Bionic chip ",
+  "product_image": "https://m.media-amazon.com/images/I/71kFzFbiINL._SL1500_.jpg",
+  "product_desc": "Stunning 27.69 cm (10.9-inch) Liquid Retina display with True Tone and P3 wide colour A14 Bionic chip with Neural Engine Touch ID for secure authentication",
+  "product_rating": 5,
+  "product_cost": 59900,
+  "product_stock": 10,
+  "color_id": {
+    "$oid": "61cc46a23286b9503dfa2040"
+  },
+  "category_id": {
+    "$oid": "61cc46653286b9503dfa203c"
+  },
+  "product_subimages": [
+    "https://m.media-amazon.com/images/I/71xYwrXAbaL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/717we1kp1QL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/811zAtuYJiL._SL1500_.jpg"
+  ]
+}]

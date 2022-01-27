@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "61cc46653286b9503dfa203b"
+  },
+  "category_name": "Fashion",
+  "category_image": "https://images-eu.ssl-images-amazon.com/images/G/31/img19/2020/PC/Fashion._SY116_CB431401553_.jpg"
+},{
+  "_id": {
+    "$oid": "61cc46653286b9503dfa203c"
+  },
+  "category_name": "Electronics",
+  "category_image": "https://images-eu.ssl-images-amazon.com/images/G/31/img19/2020/PC/Electronic._SY116_CB431401553_.jpg"
+},{
+  "_id": {
+    "$oid": "61cc46653286b9503dfa203d"
+  },
+  "category_name": "Fresh",
+  "category_image": "https://images-eu.ssl-images-amazon.com/images/G/31/img19/2020/PC/Fresh._SY116_CB431401553_.jpg"
+},{
+  "_id": {
+    "$oid": "61cc46653286b9503dfa203e"
+  },
+  "category_name": "Mobile",
+  "category_image": "https://images-eu.ssl-images-amazon.com/images/G/31/img19/2020/PC/Mobile._SY116_CB431401553_.jpg"
+}]
